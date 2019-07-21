@@ -1,0 +1,4 @@
+C:\Users\matej\.CLion2019.1\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/d/Programming/Clion_projects/antwars
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug

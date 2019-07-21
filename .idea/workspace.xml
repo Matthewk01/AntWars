@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="antwars" targetName="antwars" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec4cf1c2-4496-45b4-9b06-7aa9a0659e0d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/CAnt.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/CAnt.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CAntQueen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/CAntQueen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CGameState.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/CGameState.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CGameState.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/CGameState.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CMap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/CMap.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CGameState.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="28" column="39" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="39" />
+              <folding>
+                <element signature="e#122#139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CGameState.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="74" column="88" selection-start-line="74" selection-start-column="88" selection-end-line="74" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CMap.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="215" column="45" selection-start-line="215" selection-start-column="45" selection-end-line="215" selection-end-column="45" />
+              <folding>
+                <element signature="e#60#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(int)'#'</find>
+      <find>clear</find>
+      <find>render</find>
+      <find>command</find>
+      <find>prevNode</find>
+      <find>handleCommands</find>
+      <find>statusMessage</find>
+      <find>return</find>
+      <find>&amp;</find>
+      <find>insert</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/MakefileTEST" />
+        <option value="$PROJECT_DIR$/zadani.txt" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/src/AMapObject.cpp" />
+        <option value="$PROJECT_DIR$/src/CEmptyTile.cpp" />
+        <option value="$PROJECT_DIR$/src/CObstacle.cpp" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+        <option value="$PROJECT_DIR$/src/Difficulty.hpp" />
+        <option value="$PROJECT_DIR$/src/CEmptyTile.hpp" />
+        <option value="$PROJECT_DIR$/antwars.exe.stackdump" />
+        <option value="$PROJECT_DIR$/src/CMenu.cpp" />
+        <option value="$PROJECT_DIR$/src/CAnt.hpp" />
+        <option value="$PROJECT_DIR$/src/CAntQueen.hpp" />
+        <option value="$PROJECT_DIR$/src/CAntHill.cpp" />
+        <option value="$PROJECT_DIR$/src/AAnt.cpp" />
+        <option value="$PROJECT_DIR$/src/CMap.hpp" />
+        <option value="$PROJECT_DIR$/src/AAnt.hpp" />
+        <option value="$PROJECT_DIR$/src/AMapObject.hpp" />
+        <option value="$PROJECT_DIR$/src/CAntHill.hpp" />
+        <option value="$PROJECT_DIR$/src/CMenu.hpp" />
+        <option value="$PROJECT_DIR$/src/CObstacle.hpp" />
+        <option value="$PROJECT_DIR$/src/CAnt.cpp" />
+        <option value="$PROJECT_DIR$/src/CAntQueen.cpp" />
+        <option value="$PROJECT_DIR$/src/CMap.cpp" />
+        <option value="$PROJECT_DIR$/src/CGameState.hpp" />
+        <option value="$PROJECT_DIR$/src/CGameState.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="303" />
+    <option name="y" value="16" />
+    <option name="width" value="1581" />
+    <option name="height" value="1007" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="antwars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antwars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antwars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antwars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="antwars" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="antwars" TARGET_NAME="antwars" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="antwars" RUN_TARGET_NAME="antwars">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec4cf1c2-4496-45b4-9b06-7aa9a0659e0d" name="Default Changelist" comment="" />
+      <created>1557416999871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557416999871</updated>
+      <workItem from="1557417000954" duration="1894000" />
+      <workItem from="1557419114960" duration="571000" />
+      <workItem from="1557419700626" duration="413000" />
+      <workItem from="1557420177990" duration="350000" />
+      <workItem from="1557420831748" duration="5640000" />
+      <workItem from="1557497342409" duration="2269000" />
+      <workItem from="1557500176694" duration="4494000" />
+      <workItem from="1557571620532" duration="13662000" />
+      <workItem from="1557590436340" duration="3244000" />
+      <workItem from="1558604079322" duration="25071000" />
+      <workItem from="1558695986176" duration="14064000" />
+      <workItem from="1558721911277" duration="13686000" />
+      <workItem from="1558781910271" duration="18093000" />
+      <workItem from="1558800266201" duration="22209000" />
+      <workItem from="1558869845592" duration="29722000" />
+      <workItem from="1559144007064" duration="20000" />
+      <workItem from="1559760776576" duration="4899000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1557427129395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557427129395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1557500037140</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557500037140</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1557504471367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557504471367</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1557505452261</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557505452261</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hpp">
+      <created>1557576600634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557576600634</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hpp">
+      <created>1557577597289</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557577597289</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Makefile">
+      <created>1557585840344</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557585840344</updated>
+    </task>
+    <task id="LOCAL-00008" summary="build">
+      <created>1557586047213</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557586047213</updated>
+    </task>
+    <task id="LOCAL-00009" summary="curse">
+      <created>1557590315655</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557590315655</updated>
+    </task>
+    <task id="LOCAL-00010" summary="curse">
+      <created>1558613189506</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558613189506</updated>
+    </task>
+    <task id="LOCAL-00011" summary="curse">
+      <created>1558624537772</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1558624537772</updated>
+    </task>
+    <task id="LOCAL-00012" summary="curse">
+      <created>1558628925923</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558628925923</updated>
+    </task>
+    <task id="LOCAL-00013" summary="curse">
+      <created>1558710924873</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1558710924873</updated>
+    </task>
+    <task id="LOCAL-00014" summary="curse">
+      <created>1558713257185</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1558713257185</updated>
+    </task>
+    <task id="LOCAL-00015" summary="TODO:&#10;gameLoop&#10;generateAnts&#10;attackAntHill - BFS, ant interaction&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen">
+      <created>1558714752960</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1558714752960</updated>
+    </task>
+    <task id="LOCAL-00016" summary="TODO:&#10;gameLoop&#10;generateAnts&#10;attackAntHill - BFS, ant interaction&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen">
+      <created>1558729585525</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1558729585525</updated>
+    </task>
+    <task id="LOCAL-00017" summary="TODO:&#10;gameLoop&#10;generateAnts&#10;attackAntHill - BFS, ant interaction&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen">
+      <created>1558732201605</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1558732201605</updated>
+    </task>
+    <task id="LOCAL-00018" summary="TODO:&#10;gameLoop&#10;generateAnts&#10;attackAntHill - BFS, ant interaction&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen">
+      <created>1558733767364</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1558733767364</updated>
+    </task>
+    <task id="LOCAL-00019" summary="TODO:&#10;gameLoop&#10;generateAnts&#10;attackAntHill - BFS, ant interaction&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen">
+      <created>1558735669683</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1558735669683</updated>
+    </task>
+    <task id="LOCAL-00020" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1/2&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen">
+      <created>1558795972745</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1558795972745</updated>
+    </task>
+    <task id="LOCAL-00021" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1/2&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen">
+      <created>1558800096335</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1558800096335</updated>
+    </task>
+    <task id="LOCAL-00022" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1/2 skoro 1?&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen">
+      <created>1558812023896</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1558812023896</updated>
+    </task>
+    <task id="LOCAL-00023" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1/2 skoro 1?&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen">
+      <created>1558812521216</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1558812521216</updated>
+    </task>
+    <task id="LOCAL-00024" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1/2 skoro 1?&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen">
+      <created>1558815754210</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1558815754210</updated>
+    </task>
+    <task id="LOCAL-00025" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1/2 skoro 1?&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen">
+      <created>1558816003420</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1558816003420</updated>
+    </task>
+    <task id="LOCAL-00026" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste">
+      <created>1558824848574</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1558824848574</updated>
+    </task>
+    <task id="LOCAL-00027" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste">
+      <created>1558824883717</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1558824883717</updated>
+    </task>
+    <task id="LOCAL-00028" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste">
+      <created>1558825168516</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1558825168516</updated>
+    </task>
+    <task id="LOCAL-00029" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste&#10;pratelsti mravenci se nesmi zabijet xd&#10;pri vstupu do mraveniste mravenec za mravence.">
+      <created>1558874086734</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1558874086734</updated>
+    </task>
+    <task id="LOCAL-00030" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste&#10;pratelsti mravenci se nesmi zabijet xd&#10;pri vstupu do mraveniste mravenec za mravence.">
+      <created>1558878808833</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1558878808833</updated>
+    </task>
+    <task id="LOCAL-00031" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste&#10;pratelsti mravenci se nesmi zabijet xd&#10;pri vstupu do mraveniste mravenec za mravence.">
+      <created>1558886549212</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1558886549212</updated>
+    </task>
+    <task id="LOCAL-00032" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste&#10;pratelsti mravenci se nesmi zabijet xd&#10;pri vstupu do mraveniste mravenec za mravence.">
+      <created>1558894035899</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1558894035899</updated>
+    </task>
+    <task id="LOCAL-00033" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste&#10;pratelsti mravenci se nesmi zabijet xd&#10;pri vstupu do mraveniste mravenec za mravence.">
+      <created>1558899474816</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1558899474816</updated>
+    </task>
+    <task id="LOCAL-00034" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste&#10;pratelsti mravenci se nesmi zabijet xd&#10;pri vstupu do mraveniste mravenec za mravence.">
+      <created>1558902244944</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1558902244944</updated>
+    </task>
+    <task id="LOCAL-00035" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste&#10;pratelsti mravenci se nesmi zabijet xd&#10;pri vstupu do mraveniste mravenec za mravence.">
+      <created>1558903160299</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1558903160299</updated>
+    </task>
+    <task id="LOCAL-00036" summary="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste&#10;pratelsti mravenci se nesmi zabijet xd&#10;pri vstupu do mraveniste mravenec za mravence.">
+      <created>1558904866020</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1558904866020</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="160301000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80600214" visible="true" weight="0.16791044" />
+      <window_info id="Structure" order="1" sideWeight="0.19399786" side_tool="true" weight="0.20255864" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.27224007" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990665" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32951945" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.25723472" />
+      <window_info anchor="bottom" x="945" y="179" width="873" height="537" id="Terminal" order="9" sideWeight="0.49934384" weight="0.27331188" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.27116826" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3279743" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32951945" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80813956" visible="true" weight="0.19829424" />
+      <window_info id="Structure" order="1" sideWeight="0.19213974" side_tool="true" weight="0.24081364" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.27224007" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990665" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32951945" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.25723472" />
+      <window_info anchor="bottom" x="945" y="179" width="873" height="537" id="Terminal" order="9" sideWeight="0.49934384" weight="0.27331188" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.27224007" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32837528" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32951945" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="hpp" />
+    <MESSAGE value="Makefile" />
+    <MESSAGE value="build" />
+    <MESSAGE value="LN" />
+    <MESSAGE value="curse" />
+    <MESSAGE value="TODO:&#10;gameLoop&#10;generateAnts&#10;attackAntHill - BFS, ant interaction&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen" />
+    <MESSAGE value="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen" />
+    <MESSAGE value="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1/2&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen" />
+    <MESSAGE value="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1/2 skoro 1?&#10;saveGame, loadGame&#10;AI - easy, hard&#10;ant vs antqueen" />
+    <MESSAGE value="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste" />
+    <MESSAGE value="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste&#10;pratelsti mravenci se nesmi zabijet xd&#10;pri vstupu do mraveniste mravenec za mravence." />
+    <option name="LAST_COMMIT_MESSAGE" value="TODO:&#10;gameLoop 1&#10;generateAnts 1&#10;attackAntHill - BFS, ant interaction 1&#10;saveGame, loadGame&#10;AI - easy, hard 1/2&#10;ant vs antqueen 1/2 antqueen zabere mraveniste&#10;mravenci vstoupi do prazdneho mraveniste&#10;pratelsti mravenci se nesmi zabijet xd&#10;pri vstupu do mraveniste mravenec za mravence." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Cygwin/usr/include/ncurses.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4911" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="75" column="21" lean-forward="true" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakefileTEST" />
+    <entry file="file://$PROJECT_DIR$/../../Cygwin/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/istream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="647" column="4" selection-start-line="647" selection-start-column="4" selection-end-line="647" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Cygwin/usr/include/curses.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="358" column="8" selection-start-line="358" selection-start-column="8" selection-end-line="358" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Cygwin/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/bits/localefwd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/antwars.exe.stackdump" />
+    <entry file="file://$PROJECT_DIR$/src/CMenu.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="270" column="17" selection-start-line="270" selection-start-column="17" selection-end-line="270" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CAnt.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prohlaseni.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadani.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="52" lean-forward="true" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#59#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Doxyconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Difficulty.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CObstacle.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CMap.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="97" column="27" selection-start-line="97" selection-start-column="27" selection-end-line="97" selection-end-column="27" />
+          <folding>
+            <element signature="e#111#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CEmptyTile.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CEmptyTile.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CAntQueen.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CAntHill.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AMapObject.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAnt.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAnt.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="44" column="53" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+          <folding>
+            <element signature="e#110#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AMapObject.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="71" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CAntHill.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+          <folding>
+            <element signature="e#118#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CObstacle.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CMenu.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+          <folding>
+            <element signature="e#95#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Cygwin/usr/include/stdint.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="325" column="14" selection-start-line="325" selection-start-column="14" selection-end-line="325" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CAnt.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CAntQueen.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#60#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Cygwin/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/bits/stl_map.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="1213" column="4" selection-start-line="1213" selection-start-column="4" selection-end-line="1213" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CMap.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="215" column="45" selection-start-line="215" selection-start-column="45" selection-end-line="215" selection-end-column="45" />
+          <folding>
+            <element signature="e#60#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CGameState.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <element signature="e#122#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CGameState.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="74" column="88" selection-start-line="74" selection-start-column="88" selection-end-line="74" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

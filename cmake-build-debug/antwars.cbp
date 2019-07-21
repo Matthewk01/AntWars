@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="antwars"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="antwars">
+				<Option output="/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/antwars.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/d/Programming/Clion_projects/antwars/src"/>
+					<Add directory="/cygdrive/d/Programming/Cygwin/bin/../lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/cygdrive/d/Programming/Cygwin/bin/../lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/cygdrive/d/Programming/Cygwin/bin/../lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/cygdrive/d/Programming/Cygwin/bin/../lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 antwars"/>
+					<CompileFile command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="antwars/fast">
+				<Option output="/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/antwars.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/d/Programming/Clion_projects/antwars/src"/>
+					<Add directory="/cygdrive/d/Programming/Cygwin/bin/../lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/cygdrive/d/Programming/Cygwin/bin/../lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/cygdrive/d/Programming/Cygwin/bin/../lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/cygdrive/d/Programming/Cygwin/bin/../lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 antwars/fast"/>
+					<CompileFile command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/cygdrive/d/Programming/Cygwin/bin/make.exe -j8 -f &quot;/cygdrive/d/Programming/Clion_projects/antwars/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/AAnt.cpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/AAnt.hpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/AMapObject.cpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/AMapObject.hpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CAnt.cpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CAnt.hpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CAntHill.cpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CAntHill.hpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CAntQueen.cpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CAntQueen.hpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CEmptyTile.cpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CEmptyTile.hpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CGameState.cpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CGameState.hpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CMap.cpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CMap.hpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CMenu.cpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CMenu.hpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CObstacle.cpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/CObstacle.hpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/Difficulty.hpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/src/main.cpp">
+			<Option target="antwars"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Clion_projects/antwars/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
